@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **python**
 
-- ⚡ Fun fact **Addicted LoL player, ₿ maxi**
+- ⚡ Fun fact **Addicted LoL player**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
