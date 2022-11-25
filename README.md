@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello World!<br>I'm Davide, 25 yo Italian. Mainly interested in back-end development and IoT <br><br>🔭 I’m currently studying Computer Science<br><br>🌱 I’m currently learning C#<br><br>⚡ Fun fact Addicted noob LoL player
+Hello World!<br>I'm Davide, 25 yo Italian. Mainly interested in gaming development <br><br>🔭 I’m currently studying Computer Science<br><br>🌱 I’m currently learning C#<br><br>⚡ Fun fact Addicted noob LoL player
 
 
 ## 🌐 Socials:
