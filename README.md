@@ -1,7 +1,9 @@
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=true&username=Altaro97" height="150" alt="stats graph"  />
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=altaro97&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" alt="altaro97" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Altaro97&theme=transparent&hide_border=true" alt="altaro97" /></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Altaro97&theme=highcontrast&show_icons=true&hide_border=true&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Altaro97&theme=highcontrast&hide_border=true" height="150" alt="stats graph"  />
+ 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Altaro97&theme=highcontrast&show_icons=true&hide_border=true&layout=compact" alt="altaro97" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Altaro97&theme=highcontrast&hide_border=true&layout=compact" alt="altaro97" /></p>
 </div>
 
 ###
