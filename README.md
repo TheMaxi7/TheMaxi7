@@ -3,7 +3,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Altaro97&theme=highcontrast&hide_border=true" height="150" alt="stats graph"  />
  
 <p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Altaro97&theme=highcontrast&show_icons=true&hide_border=true&layout=compact" alt="altaro97" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Altaro97&theme=highcontrast&hide_border=true&layout=compact" alt="altaro97" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Altaro97&theme=highcontrast&hide_border=true&layout=compact&hide=Docker,BibTex,Bash,Text,Markdown,Other,JSON" alt="altaro97" /></p>
 </div>
 
 ###
