@@ -1,12 +1,12 @@
 <p align="center">
-  <a href="https://github.com/DenverCoder1">
+  <a href="https://github.com/Altaro97">
    <img src="https://user-images.githubusercontent.com/102146744/230168640-8e8a83fa-2f4c-4b9f-a141-aa62785cec7b.png" />
 </a>
 </p>
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://git.io/typing-svg">
+  <a href="https://github.com/Altaro97">
     <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=25&pause=1000&color=4A98DA&background=0029FF00&center=true&vCenter=true&width=500&lines=Future+Software+Engineer;Learning+addict;Mastering+Python" alt="Typing SVG" /></a>
 </p>
 
