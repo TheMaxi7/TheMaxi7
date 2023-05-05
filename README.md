@@ -1,12 +1,12 @@
 <p align="center">
-  <a href="https://github.com/Altaro97">
+  <a href="https://github.com/TheMaxi7">
    <img src="https://user-images.githubusercontent.com/102146744/230168640-8e8a83fa-2f4c-4b9f-a141-aa62785cec7b.png" />
 </a>
 </p>
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/Altaro97">
+  <a href="https://github.com/TheMaxi7">
     <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=25&pause=1000&color=4A98DA&background=0029FF00&center=true&vCenter=true&width=500&lines=Future+Software+Engineer;Learning+addict;Mastering+Python" alt="Typing SVG" /></a>
 </p>
 
@@ -14,7 +14,7 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://twitter.com/Unreal_Alta" target="_blank"> <img src="https://user-images.githubusercontent.com/102146744/222545615-52d1a36d-9a25-42da-bad8-d5b78a94b86b.png" alt="twitter" height="35px"/> </a>
+  <a href="https://twitter.com/TheMaxi_7" target="_blank"> <img src="https://user-images.githubusercontent.com/102146744/222545615-52d1a36d-9a25-42da-bad8-d5b78a94b86b.png" alt="twitter" height="35px"/> </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discordapp.com/users/435781221440684033" target="_blank"> <img src="https://user-images.githubusercontent.com/102146744/222545504-226ce328-45d3-4eca-9b8c-a8a2c1df1714.png" alt="discord" height="35px"/> </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -27,14 +27,14 @@
 
 <div align="center">
 
-<a href="https://github.com/Altaro97/github-stats#gh-dark-mode-only">
-<img src="https://github.com/Altaro97/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/Altaro97/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+<a href="https://github.com/TheMaxi7/github-stats#gh-dark-mode-only">
+<img src="https://github.com/TheMaxi7/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/TheMaxi7/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 </a>
 
-<a href="https://github.com/Altaro97/github-stats#gh-light-mode-only">
-<img src="https://github.com/Altaro97/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only#gh-light-mode-only" />
-<img src="https://github.com/Altaro97/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only" />
+<a href="https://github.com/TheMaxi7/github-stats#gh-light-mode-only">
+<img src="https://github.com/TheMaxi7/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only#gh-light-mode-only" />
+<img src="https://github.com/TheMaxi7/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only" />
 </a> 
 </div>
 <br>
