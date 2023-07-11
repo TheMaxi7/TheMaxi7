@@ -7,7 +7,7 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/TheMaxi7">
-    <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=25&pause=1000&color=4A98DA&background=0029FF00&center=true&vCenter=true&width=500&lines=Wannabe+Software+Engineer;Learning+addict;Learning+Rust" alt="Typing SVG" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=25&pause=1000&color=4A98DA&background=0029FF00&center=true&vCenter=true&width=500&lines=Wannabe+Software+Engineer;Learning+addict;Getting+Rusty" alt="Typing SVG" /></a>
 </p>
 
 
