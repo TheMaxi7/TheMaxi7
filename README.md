@@ -18,9 +18,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discordapp.com/users/435781221440684033" target="_blank"> <img src="https://user-images.githubusercontent.com/102146744/222545504-226ce328-45d3-4eca-9b8c-a8a2c1df1714.png" alt="discord" height="35px"/> </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/altaro97"><img height="35px" src="https://user-images.githubusercontent.com/102146744/230172751-964283a3-3e17-428a-b0f3-69438c26cc48.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="" target="_blank"> <img src="https://user-images.githubusercontent.com/102146744/222545692-b859a0d5-a16d-4dce-bda4-2ec6ad984486.png" alt="linkedin" height="35px"/> </a>
+  <a href="https://www.linkedin.com/in/davide-altamura-063509274/" target="_blank"> <img src="https://user-images.githubusercontent.com/102146744/222545692-b859a0d5-a16d-4dce-bda4-2ec6ad984486.png" alt="linkedin" height="35px"/> </a>
 </p>
 
 <br/>
@@ -43,7 +41,7 @@
 <a href="https://www.lua.org/" target="_blank"> <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white"/> </a> 
 <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> </a> 
 <a href="https://www.python.org/" target="_blank"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/> </a> 
-<a href="https://isocpp.org/std/the-standard" target="_blank"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> </a>
+<a href="https://www.rust-lang.org/" target="_blank"> <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/> </a>
 
   
 </div>
