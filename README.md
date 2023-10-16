@@ -13,7 +13,7 @@
 <a href="https://www.lua.org/" target="_blank"> <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white"/> </a> 
 <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> </a> 
 <a href="https://www.python.org/" target="_blank"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/> </a> 
-
+<hr>
 <p align=center>
   <div align=center>
     <a href="https://github.com/themaxi7">
@@ -30,7 +30,7 @@
     </a>
   </div>
   <br>
-
+  <hr>
 <p align="center">
   <img width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=11131288268&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false">
 </p>
