@@ -9,19 +9,6 @@
 </p>
 
 <br/>
-
-<div align="center">
-
-<a href="https://github.com/TheMaxi7/stats#gh-dark-mode-only">
-<img src="https://github.com/TheMaxi7/stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/TheMaxi7/stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-</a>
-
-<a href="https://github.com/TheMaxi7/stats#gh-light-mode-only">
-<img src="https://github.com/TheMaxi7/stats/blob/master/generated/overview.svg#gh-dark-mode-only#gh-light-mode-only" />
-<img src="https://github.com/TheMaxi7/stats/blob/master/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only" />
-</a> 
-</div>
 <br>
 <div align="center">
 
@@ -29,6 +16,26 @@
 <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> </a> 
 <a href="https://www.python.org/" target="_blank"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/> </a> 
 
-  
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/themaxi7">
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=themaxi7&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+    </a>
+    <a href="https://github.com/themaxi7">
+      <img align="right" width=390 src="https://github-readme-stats-altaro97.vercel.app/api?username=themaxi7&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/themaxi7">
+      <img height=200 align="center" src="https://github-readme-stats-altaro97.vercel.app/api/top-langs/?username=themaxi7&hide=powershell,,shaderlab,,dockerfile,makefile,hlsl,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+    </a>
+  </div>
+  <br>
+
+<p align="center">
+  <img width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=11131288268&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false">
+</p>
+
 </div>
 
