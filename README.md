@@ -8,8 +8,6 @@
   <a href="https://www.linkedin.com/in/davide-altamura-063509274/" target="_blank"> <img src="https://user-images.githubusercontent.com/102146744/222545692-b859a0d5-a16d-4dce-bda4-2ec6ad984486.png" alt="linkedin" height="35px"/> </a>
 </p>
 
-<br/>
-<br>
 <div align="center">
 
 <a href="https://www.lua.org/" target="_blank"> <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white"/> </a> 
