@@ -17,7 +17,7 @@
 <p align=center>
   <div align=center>
     <a href="https://github.com/themaxi7">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=themaxi7&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=themaxi7&theme=react&border=61dafb&hide_border=true" />
     </a>
     <a href="https://github.com/themaxi7">
       <img align="right" width=390 src="https://github-readme-stats-altaro97.vercel.app/api?username=themaxi7&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
