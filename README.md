@@ -15,8 +15,8 @@
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <hr>
 <p align=center>
-      <img height="50%" width="auto" src="https://github-readme-stats-altaro97.vercel.app/api?username=themaxi7&show_icons=true&theme=chartreuse-dark&hide_border=true" />
-      <img height="50%" width="auto" src="https://streak-stats.demolab.com/?user=themaxi7&theme=chartreuse-dark&hide_border=true" />
+      <img src="https://github-readme-stats-altaro97.vercel.app/api?username=themaxi7&show_icons=true&theme=chartreuse-dark&hide_border=true" />
+      <img src="https://streak-stats.demolab.com/?user=themaxi7&theme=chartreuse-dark&hide_border=true" />
       <img src="https://github-readme-stats-altaro97.vercel.app/api/top-langs/?username=themaxi7&hide=powershell,shaderlab,dockerfile,makefile,hlsl,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&langs_count=8&layout=donut&hide_border=true&size_weight=1&theme=chartreuse-dark" />
   <br>
   <hr>
