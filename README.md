@@ -7,8 +7,6 @@
 
 ### About myself
 I am a Computer Science student at the University of Udine. I love technology, and I am passionate about finance and video games. In my free time, I read books, build things, and play games.
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11131288268&cover_image=true&theme=natemoo-re&show_offline=true&background_color=57e389&interchange=false&bar_color=33d17a&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=11131288268&redirect=true)
   
 ### Languages
 
